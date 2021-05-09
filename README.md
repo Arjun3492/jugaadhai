@@ -1,1 +1,1 @@
-# jugaadhai
+# This is an internship project 
